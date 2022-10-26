@@ -63,7 +63,7 @@ const Register = () => {
   return (
     <div className='formContainer'>
         <div className='formWrapper'>
-            <span className='logo'>Messengirls</span>
+            <span className='logo'>Chat App</span>
             <span className='title'>Đăng ký</span>
             <form onSubmit={handleSubmit}>
                 <input type="text" placeholder='Tên'/>
